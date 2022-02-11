@@ -1,0 +1,19 @@
+[{
+    "title": "我的第一篇文章-Markdown語法練習",
+    "date": "",
+    "description": "在Hugo上使用Markdown的語法範例",
+    "body": "這篇文章是關於如何在Hugo內容資料夾中使用基礎的Markdown句法\n標題 一級標題-六級標題之範例\n一級標題 二級標題 三級標題 四級標題 五級標題 六級標題 內文 直接輸入\n可以用兩個空格換行\n或是句子間多留一行空白\nBlockquotes hello\n",
+    "ref": "/zh-tw/blog/markdown-syntax/"
+  },{
+    "title": "About",
+    "date": "",
+    "description": "Hugo, the world’s fastest framework for building websites",
+    "body": "Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.\nHugo makes use of a variety of open source projects including:\n https://github.com/yuin/goldmark https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.\nHugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.\nWebsites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.\nLearn more and contribute on GitHub.\n",
+    "ref": "/zh-tw/about/"
+  },{
+    "title": "聯繫",
+    "date": "",
+    "description": "",
+    "body": "",
+    "ref": "/zh-tw/contact/"
+  }]
