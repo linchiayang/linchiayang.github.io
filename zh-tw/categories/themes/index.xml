@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>themes on Lin&#39;s Blog</title>
-    <link>https://CY-Lin-tw.github.io/zh-tw/categories/themes/</link>
+    <link>https://linchiayang.github.io/zh-tw/categories/themes/</link>
     <description>Recent content in themes on Lin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 17 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://CY-Lin-tw.github.io/zh-tw/categories/themes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://linchiayang.github.io/zh-tw/categories/themes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的第一篇文章-Markdown語法練習</title>
-      <link>https://CY-Lin-tw.github.io/zh-tw/blog/markdown-syntax/</link>
+      <link>https://linchiayang.github.io/zh-tw/blog/markdown-syntax/</link>
       <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://CY-Lin-tw.github.io/zh-tw/blog/markdown-syntax/</guid>
+      <guid>https://linchiayang.github.io/zh-tw/blog/markdown-syntax/</guid>
       <description>&lt;p&gt;這篇文章是關於如何在Hugo內容資料夾中使用基礎的Markdown句法&lt;/p&gt;</description>
     </item>
     
