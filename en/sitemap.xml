@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://linchiayang.github.io/about/</loc>
+    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://linchiayang.github.io/zh-tw/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://linchiayang.github.io/ja/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://linchiayang.github.io/about/"
+                />
+  </url><url>
     <loc>https://linchiayang.github.io/blog/</loc>
     <lastmod>2022-01-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -158,24 +176,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://linchiayang.github.io/categories/themes/"
-                />
-  </url><url>
-    <loc>https://linchiayang.github.io/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://linchiayang.github.io/zh-tw/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://linchiayang.github.io/ja/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://linchiayang.github.io/about/"
                 />
   </url><url>
     <loc>https://linchiayang.github.io/contact/</loc>
